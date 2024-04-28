@@ -1,5 +1,8 @@
+function startAnim(){
+    document.querySelectorAll('.animation').forEach((item)=>item.classList.add('show'))
+}
 
-document.querySelectorAll('.animation').forEach((item)=>item.classList.add('show'))
+startAnim()
 
 // Таймер
 const startTimer = {
