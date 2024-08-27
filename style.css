@@ -229,6 +229,7 @@ footer {
     border: 3px solid #fff;
     background: url(./images/Union.svg) center no-repeat, #DF2224;
     border-radius: 50%;
+    cursor: pointer;
 }
 
 .err{

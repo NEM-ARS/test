@@ -7,11 +7,11 @@ startAnim()
 // Таймер
 const startTimer = {
     day: 27,
-    month: 4,
+    month: 8,
     year: 2024,
 };
 
-const endTimer = new Date('2024-07-24');
+const endTimer = new Date('2024-12-31');
 
 const interval = setInterval(runTimer, 1000);
  
